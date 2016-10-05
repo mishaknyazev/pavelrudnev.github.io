@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Alegreya Sans', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,7 +21,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Alegreya', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Fira Sans', 'Alegreya',  'Sans-Serif';
 }
 p {
     font-size: 1.5em;
@@ -48,6 +48,6 @@ h2, h3, h4, h5 {
 }
 h2, h3 {
 	text-transform: lowercase;
-	font-family: 'Alegreya SC';
+	font-family: 'Fira Sans';
 	font-style: normal;
 }
