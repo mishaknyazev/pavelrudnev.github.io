@@ -1,10 +1,10 @@
 body {
-    font-family: 'Fira Sans', 'Sans-Serif';	
+    font-family: 'Alegreya Sans', 'Sans-Serif';	
     margin: 60px auto;
     width: 65%;
 }
 nav ul, footer ul {
-    font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';
+    font-family: 'Alegreya Sans', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,10 +22,10 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Fira Sans', 'Alegreya',  'Sans-Serif';
+    font-family: 'Alegreya',  'Sans-Serif';
 }
 p {
-    font-family: 'Fira Sans', 'Sans-Serif';	
+    font-family: 'Alegreya Sans', 'Sans-Serif';	
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
@@ -50,6 +50,6 @@ h2, h3, h4, h5 {
 }
 h2, h3 {
 	text-transform: lowercase;
-	font-family: 'Fira Sans';
+	font-family: 'Alegreya Sans SC', sans-serif;
 	font-style: normal;
 }
