@@ -3,6 +3,12 @@ body {
     margin: 60px auto;
     width: 65%;
 }
+.class {
+  font-variant-numeric: oldstyle-nums;
+  -moz-font-feature-settings: "onum";
+  -webkit-font-feature-settings: "onum";
+  font-feature-settings: "onum";
+}
 nav ul, footer ul {
     font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';
     padding: 0px;
