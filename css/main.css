@@ -7,7 +7,7 @@ body {
     margin: 60px auto;
     width: 65%;
 }
-.class {
+html {
   font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
