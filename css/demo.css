@@ -8,26 +8,6 @@ body {
 	background-color: #dee0eb;
 }
 
-
-p {
-	font-kerning: normal;
-	font-variant-ligatures: common-ligatures contextual;
-	font-variant-numeric: oldstyle-nums proportional-nums;
-	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "num";
-	-ms-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "num";
-	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "onum", "num";
-	font-feature-settings: "kern", "liga", "clig", "calt", "onum", "num";
-}
-p abbr,
-p span {
-	font-kerning: normal;
-	font-variant-ligatures: common-ligatures contextual;
-	font-variant-numeric: oldstyle-nums proportional-nums;
-	-moz-font-feature-settings: "kern", "liga", "clig", "calt", "num";
-	-ms-font-feature-settings: "kern", "liga", "clig", "calt", "num";
-	-webkit-font-feature-settings: "kern", "liga", "clig", "calt", "num";
-	font-feature-settings: "kern", "liga", "clig", "calt", "num";
-
 form, input[type="search"], select[multiple="multiple"]  {font-family:  'Alegreya', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
 
 /*body {
