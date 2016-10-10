@@ -1,5 +1,5 @@
 body {
-    font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';	
+    font-family: 'Fira Sans', 'Sans-Serif';	
     font-variant-numeric: oldstyle-nums;
     -moz-font-feature-settings: "onum";
     -webkit-font-feature-settings: "onum";
@@ -8,13 +8,14 @@ body {
     width: 65%;
 }
 html {
+  font-family: 'Fira Sans', 'Sans-Serif';
   font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
   font-feature-settings: "onum";
 }
 nav ul, footer ul {
-    font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';
+    font-family: 'Fira Sans', 'Sans-Serif';
 	padding: 0px;
 	font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
@@ -36,14 +37,14 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Fira Sans', 'Alegreya Sans',  'Sans-Serif';
+    font-family: 'Fira Sans', 'Sans-Serif';
 	font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
   font-feature-settings: "onum";
 }
 p {
-    font-family: 'Fira Sans', 'Alegreya Sans', 'Sans-Serif';	
+    font-family: 'Fira Sans', 'Sans-Serif';	
 	font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
@@ -76,7 +77,7 @@ h2, h3, h4, h5 {
 }
 h2, h3 {
 	text-transform: lowercase;
-	font-family: 'Alegreya Sans SC', sans-serif;
+	font-family: 'Fira Sans', sans-serif;
 	font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
