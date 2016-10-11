@@ -4,6 +4,8 @@ body {
     -moz-font-feature-settings: "onum";
     -webkit-font-feature-settings: "onum";
     font-feature-settings: "onum";
+    font-size: 1em;
+    line-height: 1.6em;
     margin: 60px auto;
     width: 65%;
 }
@@ -36,7 +38,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 3em; 
     font-family: 'Fira Sans', 'Sans-Serif';
 	font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
@@ -49,8 +51,8 @@ p {
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
   font-feature-settings: "onum";
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 1.6em;
     color: #333;
 }
 footer {
