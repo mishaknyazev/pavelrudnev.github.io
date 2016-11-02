@@ -30,8 +30,8 @@ English uses the same word --- *if* --- to create emdedded questions like *I don
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
 
 <ol data-gloss>
-<li>*Ja ne znaju li on spit</li>
-<li>I not know whether he is.sleeping</li>
+<li>* Ja ne znaju li on spit</li>
+<li> I not know whether he is.sleeping</li>
 <li></li>
 </ol>
 
