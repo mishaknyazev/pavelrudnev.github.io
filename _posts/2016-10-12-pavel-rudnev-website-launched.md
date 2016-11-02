@@ -22,9 +22,9 @@ The second thing I found peculiar about Anastasia's Russian is the way she'd use
 English uses the same word --- *if* --- to create emdedded questions like *I don't know if he's awake* and various sorts of conditional sentences, e.g. *I'll be sad if he's awake.* Many other languages don't (I'll give examples from some of the ones I can more or less speak): Dutch has *of* ‘whether’ and *als* ‘if’,[^3] Estonian has *kas* ‘whether’ and *kui* ‘if’, German has *ob* ‘whether’ and *wenn* ‘if’ etc. Now, Russian has that (e.g. *li* ‘whether’ and *jesli* ‘if’) and more, since unlike the other languages I've just listed, simply substituting one for the other is not sufficient to alter an embedded question into a conditional or vice versa. Let's consider an example:
 
 <ol data-gloss>
-<li>Jesli on ne spit, ja rasstrojus'</li>
-<li>if he not is.sleeping I will.be.sad</li>
-<li>‘If he isn't sleeping, I’ll be sad.’</li>
+<li>(1) Jesli on ne spit, ja rasstrojus'</li>
+<li>{} if he not is.sleeping I will.be.sad</li>
+<li>{} ‘If he isn't sleeping, I’ll be sad.’</li>
 </ol>
 
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
