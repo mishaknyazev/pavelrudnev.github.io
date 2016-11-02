@@ -21,27 +21,27 @@ The second thing I found peculiar about Anastasia's Russian is the way she'd use
 
 English uses the same word --- *if* --- to create emdedded questions like *I don't know if he's awake* and various sorts of conditional sentences, e.g. *I'll be sad if he's awake.* Many other languages don't (I'll give examples from some of the ones I can more or less speak): Dutch has *of* ‘whether’ and *als* ‘if’,[^3] Estonian has *kas* ‘whether’ and *kui* ‘if’, German has *ob* ‘whether’ and *wenn* ‘if’ etc. Now, Russian has that (e.g. *li* ‘whether’ and *jesli* ‘if’) and more, since unlike the other languages I've just listed, simply substituting one for the other is not sufficient to alter an embedded question into a conditional or vice versa. Let's consider an example:
 
-<div class="gloss">
-Jesli on ne spit, ja rasstrojus'<br/>
-if he not is.sleeping I will.be.sad<br/>
-! ‘If he isn't sleeping, I’ll be sad.’
-</div>
-<br/>
+<ul data-gloss>
+<li>Jesli on ne spit, ja rasstrojus'</li>
+<li>if he not is.sleeping I will.be.sad</li>
+<li>‘If he isn't sleeping, I’ll be sad.’</li>
+</ul>
+
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
 
-<div class="gloss">
-*Ja ne znaju li on spit<br/>
-I not know whether he is.sleeping<br/>
-! (‘I don’t know whether he’s sleeping.’)
-</div>
+<ul data-gloss>
+<li>*Ja ne znaju li on spit</li>
+<li> I not know whether he is.sleeping</li>
+<li>(‘I don’t know whether he’s sleeping.’)</li>
+</ul>
 
 Why? Well, one's required to do one more step, namely have the actual content of the question precede the *li*:[^4]
 
-<div class="gloss">
-Ja ne znaju spit li on<br/>
-I not know is.sleeping whether he<br/>
-! ‘I don’t know whether he’s sleeping.’
-</div>
+<ul data-gloss>
+<li>Ja ne znaju spit li on</li>
+<li>I not know is.sleeping whether he</li>
+<li>‘I don’t know whether he’s sleeping.’</li>
+</ul>
 
 The upshot of this is that Russian marks the distinction between *if* and *whether* both lexically (i.e. by deploying two distinct lexical items) and syntactically, and no way could an adult speaker confuse one with the other. What of Anastasia? At about 2y4m she started using the conditional complementiser *jesli* ‘if’ in both contexts. Where did she get that from? No idea, but I'm fairly certain it wasn't from other languages, since she's hardly been exposed to English, and has definitely not been exposed to those Dutch dialects which I mentioned earlier.
 
