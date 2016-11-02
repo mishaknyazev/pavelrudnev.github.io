@@ -31,7 +31,7 @@ If we tried to substitute one complementiser for the other with the aim of obtai
 
 <ol data-gloss>
 <li>* Ja ne znaju li on spit</li>
-<li> I not know whether he is.sleeping</li>
+<li>{} I not know whether he is.sleeping</li>
 <li>(‘I don’t know whether he’s sleeping.’)</li>
 </ol>
 
