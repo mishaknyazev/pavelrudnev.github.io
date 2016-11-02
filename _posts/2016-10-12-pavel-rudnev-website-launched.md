@@ -32,6 +32,7 @@ If we tried to substitute one complementiser for the other with the aim of obtai
 <ol data-gloss>
 <li>*Ja ne znaju li on spit</li>
 <li>I not know whether he is.sleeping</li>
+<li></li>
 </ol>
 
 Why? Well, one's required to do one more step, namely have the actual content of the question precede the *li*:[^4]
