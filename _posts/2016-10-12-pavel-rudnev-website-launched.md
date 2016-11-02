@@ -37,7 +37,11 @@ If we tried to substitute one complementiser for the other with the aim of obtai
 
 Why? Well, one's required to do one more step, namely have the actual content of the question precede the *li*:[^4]
 
-* *Ja* (I) *ne* (not) *znaju* (know) *spit* (is.sleeping) **li** (whether) *on* (he)
+<ol data-gloss>
+<li>Ja ne znaju spit li on</li>
+<li>I not know is.sleeping whether he</li>
+<li>‘I don’t know whether he’s sleeping.’</li>
+</ol>
 
 The upshot of this is that Russian marks the distinction between *if* and *whether* both lexically (i.e. by deploying two distinct lexical items) and syntactically, and no way could an adult speaker confuse one with the other. What of Anastasia? At about 2y4m she started using the conditional complementiser *jesli* ‘if’ in both contexts. Where did she get that from? No idea, but I'm fairly certain it wasn't from other languages, since she's hardly been exposed to English, and has definitely not been exposed to those Dutch dialects which I mentioned earlier.
 
