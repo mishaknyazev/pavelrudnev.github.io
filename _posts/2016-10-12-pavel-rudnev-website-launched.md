@@ -29,10 +29,14 @@ English uses the same word --- *if* --- to create emdedded questions like *I don
 
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
 
-<ul data-gloss>
-<li>*Ja ne znaju li on spit</li>
-<li> I not know whether he is.sleeping</li>
-<li>(‘I don’t know whether he’s sleeping.’)</li>
+<ul>
+	<li>
+		<ul data-gloss>
+			<li>*Ja ne znaju li on spit</li>
+			<li> I not know whether he is.sleeping</li>
+			<li>(‘I don’t know whether he’s sleeping.’)</li>
+		</ul>
+	</li>
 </ul>
 
 Why? Well, one's required to do one more step, namely have the actual content of the question precede the *li*:[^4]
