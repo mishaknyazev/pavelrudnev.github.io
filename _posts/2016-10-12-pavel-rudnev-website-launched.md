@@ -26,12 +26,12 @@ Jesli on ne spit, ja rasstrojus'<br/>
 if he not is.sleeping I will.be.sad<br/>
 ! ‘If he isn't sleeping, I’ll be sad.’
 </div>
-
+<br/>
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
 
 <div class="gloss">
-* Ja ne znaju li on spit<br/>
-{} I not know whether he is.sleeping<br/>
+*Ja ne znaju li on spit<br/>
+I not know whether he is.sleeping<br/>
 ! (‘I don’t know whether he’s sleeping.’)
 </div>
 
