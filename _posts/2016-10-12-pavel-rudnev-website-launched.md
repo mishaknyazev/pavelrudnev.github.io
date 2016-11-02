@@ -29,7 +29,7 @@ English uses the same word --- *if* --- to create emdedded questions like *I don
 
 If we tried to substitute one complementiser for the other with the aim of obtaining the embedded question reading, the result would be unacceptable:
 
-<ul>
+<ol>
 	<li>
 		<ul data-gloss>
 			<li>*Ja ne znaju li on spit</li>
@@ -37,7 +37,7 @@ If we tried to substitute one complementiser for the other with the aim of obtai
 			<li>(‘I don’t know whether he’s sleeping.’)</li>
 		</ul>
 	</li>
-</ul>
+</ol>
 
 Why? Well, one's required to do one more step, namely have the actual content of the question precede the *li*:[^4]
 
